@@ -638,6 +638,10 @@ h3 {
   z-index: -1;
 }
 
+a{
+  text-decoration: none;
+}
+
 /* ----- CONTACT BOX ----- */
 .contact-info {
   position: relative;
